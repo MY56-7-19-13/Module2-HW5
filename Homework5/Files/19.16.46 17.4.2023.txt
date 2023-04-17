@@ -1,0 +1,17 @@
+17.04.2023 19:16:46: Warning: Action got this custom Exeption: Skipped logic in method
+17.04.2023 19:16:46: Error: Action failed by reason:
+System.Exception: I broke a logic!
+   at Homework5.Actions.BrokeMethod() in C:\Users\User\source\repos\MY56-7-19-13\Module2-HW5\Homework5\Actions.cs:line 31
+   at Homework5.Starter.Run() in C:\Users\User\source\repos\MY56-7-19-13\Module2-HW5\Homework5\Starter.cs:line 33
+17.04.2023 19:16:46: Info: Start method
+17.04.2023 19:16:46: Warning: Action got this custom Exeption: Skipped logic in method
+17.04.2023 19:16:46: Info: Start method
+17.04.2023 19:16:46: Error: Action failed by reason:
+System.Exception: I broke a logic!
+   at Homework5.Actions.BrokeMethod() in C:\Users\User\source\repos\MY56-7-19-13\Module2-HW5\Homework5\Actions.cs:line 31
+   at Homework5.Starter.Run() in C:\Users\User\source\repos\MY56-7-19-13\Module2-HW5\Homework5\Starter.cs:line 33
+17.04.2023 19:16:46: Error: Action failed by reason:
+System.Exception: I broke a logic!
+   at Homework5.Actions.BrokeMethod() in C:\Users\User\source\repos\MY56-7-19-13\Module2-HW5\Homework5\Actions.cs:line 31
+   at Homework5.Starter.Run() in C:\Users\User\source\repos\MY56-7-19-13\Module2-HW5\Homework5\Starter.cs:line 33
+17.04.2023 19:16:46: Info: Start method

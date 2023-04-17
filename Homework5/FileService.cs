@@ -6,7 +6,7 @@ namespace Homework5
     {
         public void SerializationSample(string message)
         {
-            var configFile = File.ReadAllText("config.json");
+            var configFile = File.ReadAllText("../../../config.json");
             var config = JsonConvert.DeserializeObject<Config>(configFile);
             string directoryPath = config.Logger.DirectoryPath;
             DirectoryInfo directory = new DirectoryInfo(directoryPath);
